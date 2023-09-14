@@ -2,6 +2,7 @@
 generates polycubes. a challenge from a computerphile video
 
 usage
+
 -b [int] default value 2. begin at n=this number. use when you've already done some calculations and have the file on hand. this bugs out the progress% for the first n
 
 -f [string] default value output1.polycubes. a file for where the initial data should come from. used in conjunction with -b
