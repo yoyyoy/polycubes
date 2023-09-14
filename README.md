@@ -19,17 +19,17 @@ the button to use it will show up in the objects menu
 
 some benchmarks on my 8700k
 
-n    seconds
+n-----seconds
 
-9    0.119615
+9-----0.119615
 
-10   0.938319
+10----0.938319
 
-11   7.28307
+11----7.28307
 
-12   55.8535
+12----55.8535
 
-13   460.84
+13----460.84
 
 14 was like an hour or 2
 
